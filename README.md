@@ -10,3 +10,4 @@
 ## Feature
 
 - automatically create wifi hotspot "Coin Tracker" with password "12345679" to update connection network parameters .
+- Api Coin Ticker: api.bitpanda.com
